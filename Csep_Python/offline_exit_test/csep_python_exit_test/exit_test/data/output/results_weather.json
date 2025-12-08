@@ -1,0 +1,56 @@
+{
+  "overall_avg_temperature": 13.704642857142856,
+  "total_points": 1680,
+  "cities": [
+    {
+      "city": "Berlin",
+      "avg_temp": 8.27797619047619,
+      "points": 168
+    },
+    {
+      "city": "London",
+      "avg_temp": 10.504761904761905,
+      "points": 168
+    },
+    {
+      "city": "New York",
+      "avg_temp": 1.1922619047619047,
+      "points": 168
+    },
+    {
+      "city": "San Francisco",
+      "avg_temp": 13.348809523809523,
+      "points": 168
+    },
+    {
+      "city": "Tokyo",
+      "avg_temp": 7.535714285714286,
+      "points": 168
+    },
+    {
+      "city": "Sydney",
+      "avg_temp": 22.232142857142858,
+      "points": 168
+    },
+    {
+      "city": "Delhi",
+      "avg_temp": 16.23095238095238,
+      "points": 168
+    },
+    {
+      "city": "S\u00e3o Paulo",
+      "avg_temp": 23.048214285714284,
+      "points": 168
+    },
+    {
+      "city": "Cairo",
+      "avg_temp": 16.003571428571426,
+      "points": 168
+    },
+    {
+      "city": "Johannesburg",
+      "avg_temp": 18.67202380952381,
+      "points": 168
+    }
+  ]
+}

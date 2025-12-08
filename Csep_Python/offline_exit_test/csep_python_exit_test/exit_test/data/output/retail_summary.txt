@@ -1,0 +1,20 @@
+Records loaded: 10
+Total revenue: 787.5
+Total quantity sold: 76
+
+Revenue per category:
+  - Electronics: 365.0
+  - Furniture: 390.0
+  - Stationery: 32.5
+
+Top 3 categories by revenue:
+  - Furniture: 390.0
+  - Electronics: 365.0
+  - Stationery: 32.5
+
+Countries present:
+  - USA
+  - UK
+  - Canada
+  - India
+  - Germany

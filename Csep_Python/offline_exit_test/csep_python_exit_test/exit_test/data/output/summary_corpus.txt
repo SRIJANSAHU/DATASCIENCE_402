@@ -1,0 +1,17 @@
+Files analyzed: 10
+Total words: 1100
+Total chars: 6820
+Sum of unique words (per-file): 180
+Weighted lexical diversity: 0.163636
+
+Per-file (word_count, unique_words, diversity):
+  doc_01.txt: words=20, unique=18, diversity=0.9
+  doc_02.txt: words=40, unique=18, diversity=0.45
+  doc_03.txt: words=60, unique=18, diversity=0.3
+  doc_04.txt: words=80, unique=18, diversity=0.225
+  doc_05.txt: words=100, unique=18, diversity=0.18
+  doc_06.txt: words=120, unique=18, diversity=0.15
+  doc_07.txt: words=140, unique=18, diversity=0.128571
+  doc_08.txt: words=160, unique=18, diversity=0.1125
+  doc_09.txt: words=180, unique=18, diversity=0.1
+  doc_10.txt: words=200, unique=18, diversity=0.09

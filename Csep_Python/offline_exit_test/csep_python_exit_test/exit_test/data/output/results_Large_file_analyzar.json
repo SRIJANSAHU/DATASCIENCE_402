@@ -1,0 +1,46 @@
+{
+  "total_words": 453573,
+  "unique_words": 4553,
+  "top_10": [
+    {
+      "word": "1",
+      "count": 26166
+    },
+    {
+      "word": "0",
+      "count": 22049
+    },
+    {
+      "word": "http",
+      "count": 18229
+    },
+    {
+      "word": "05",
+      "count": 10529
+    },
+    {
+      "word": "may",
+      "count": 10009
+    },
+    {
+      "word": "2015",
+      "count": 10000
+    },
+    {
+      "word": "0000",
+      "count": 10000
+    },
+    {
+      "word": "get",
+      "count": 9971
+    },
+    {
+      "word": "5",
+      "count": 9700
+    },
+    {
+      "word": "200",
+      "count": 9310
+    }
+  ]
+}

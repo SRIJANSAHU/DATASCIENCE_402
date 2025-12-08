@@ -1,0 +1,14 @@
+Successful cities: 10 / 10
+Overall hourly temperature average: 13.705 °C (across 1680 points)
+
+Per-city averages:
+  - Berlin         avg=  8.278 °C  points=168
+  - London         avg= 10.505 °C  points=168
+  - New York       avg=  1.192 °C  points=168
+  - San Francisco  avg= 13.349 °C  points=168
+  - Tokyo          avg=  7.536 °C  points=168
+  - Sydney         avg= 22.232 °C  points=168
+  - Delhi          avg= 16.231 °C  points=168
+  - São Paulo      avg= 23.048 °C  points=168
+  - Cairo          avg= 16.004 °C  points=168
+  - Johannesburg   avg= 18.672 °C  points=168

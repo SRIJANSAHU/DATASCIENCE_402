@@ -1,0 +1,4 @@
+This is a small demo document. It has repeated words words words.
+Lexical diversity tests uniqueness over total word count.
+This is a small demo document. It has repeated words words words.
+Lexical diversity tests uniqueness over total word count.

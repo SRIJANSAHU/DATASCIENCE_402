@@ -1,0 +1,11 @@
+order_id,product,category,quantity,price,country
+1,Mouse,Electronics,2,25,USA
+2,Keyboard,Electronics,1,45,UK
+3,Chair,Furniture,1,120,USA
+4,Desk,Furniture,1,210,Canada
+5,Pen,Stationery,10,1.5,India
+6,Notebook,Stationery,5,2.5,India
+7,Monitor,Electronics,1,150,Germany
+8,Lamp,Furniture,2,30,USA
+9,Headset,Electronics,3,40,UK
+10,Envelope,Stationery,50,0.1,Canada

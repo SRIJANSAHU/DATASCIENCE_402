@@ -1,0 +1,3 @@
+This is a simple sample text file for testing the FastAPI text analytics service.
+It contains several words, some short and some extremelylongwordforthistest.
+Feel free to add more content as you test.

@@ -1,0 +1,14 @@
+Input file: log_dataset.txt
+Total words: 453573
+Unique words: 4553
+Top 10 words:
+  1: 26166
+  0: 22049
+  http: 18229
+  05: 10529
+  may: 10009
+  2015: 10000
+  0000: 10000
+  get: 9971
+  5: 9700
+  200: 9310

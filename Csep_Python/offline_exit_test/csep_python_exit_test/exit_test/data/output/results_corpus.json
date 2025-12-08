@@ -1,0 +1,71 @@
+{
+  "files_analyzed": 10,
+  "totals": {
+    "words": 1100,
+    "chars": 6820,
+    "unique_words_sum": 180,
+    "lexical_diversity_weighted": 0.163636
+  },
+  "per_file": {
+    "doc_01.txt": {
+      "word_count": 20,
+      "char_count": 124,
+      "unique_words": 18,
+      "lexical_diversity": 0.9
+    },
+    "doc_02.txt": {
+      "word_count": 40,
+      "char_count": 248,
+      "unique_words": 18,
+      "lexical_diversity": 0.45
+    },
+    "doc_03.txt": {
+      "word_count": 60,
+      "char_count": 372,
+      "unique_words": 18,
+      "lexical_diversity": 0.3
+    },
+    "doc_04.txt": {
+      "word_count": 80,
+      "char_count": 496,
+      "unique_words": 18,
+      "lexical_diversity": 0.225
+    },
+    "doc_05.txt": {
+      "word_count": 100,
+      "char_count": 620,
+      "unique_words": 18,
+      "lexical_diversity": 0.18
+    },
+    "doc_06.txt": {
+      "word_count": 120,
+      "char_count": 744,
+      "unique_words": 18,
+      "lexical_diversity": 0.15
+    },
+    "doc_07.txt": {
+      "word_count": 140,
+      "char_count": 868,
+      "unique_words": 18,
+      "lexical_diversity": 0.12857142857142856
+    },
+    "doc_08.txt": {
+      "word_count": 160,
+      "char_count": 992,
+      "unique_words": 18,
+      "lexical_diversity": 0.1125
+    },
+    "doc_09.txt": {
+      "word_count": 180,
+      "char_count": 1116,
+      "unique_words": 18,
+      "lexical_diversity": 0.1
+    },
+    "doc_10.txt": {
+      "word_count": 200,
+      "char_count": 1240,
+      "unique_words": 18,
+      "lexical_diversity": 0.09
+    }
+  }
+}
