@@ -1,0 +1,13 @@
+{
+    "HottestDay": {
+        "Date": "2025-01-03",
+        "Temperature": 35.0,
+        "Rainfall": 12.0
+    },
+    "WettestDay": {
+        "Date": "2025-01-05",
+        "Temperature": 33.0,
+        "Rainfall": 20.0
+    },
+    "TotalDaysProcessed": 5
+}

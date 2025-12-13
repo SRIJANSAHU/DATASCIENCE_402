@@ -1,0 +1,34 @@
+2025-01-01 10:00:00 INFO Server started
+2025-01-01 10:01:15 WARNING High memory usage detected
+2025-01-01 10:02:30 ERROR Failed to connect to database
+2025-01-01 10:03:10 INFO Health check OK
+2025-01-01 10:04:55 ERROR Disk read failure
+2025-01-01 10:00:00 INFO Server started successfully
+2025-01-01 10:00:05 DEBUG Initializing cache subsystem
+2025-01-01 10:00:12 INFO Cache warm-up completed
+2025-01-01 10:01:15 WARNING High memory usage detected in worker-3
+2025-01-01 10:01:40 DEBUG Received request from 192.168.1.15
+2025-01-01 10:02:10 INFO Authentication attempt for user 'admin'
+2025-01-01 10:02:30 ERROR Failed to connect to database (timeout)
+2025-01-01 10:02:45 WARNING Retrying database connection...
+2025-01-01 10:03:10 INFO Health check OK
+2025-01-01 10:03:30 ERROR Database connection permanently failed
+2025-01-01 10:04:00 DEBUG DB reconnection scheduler triggered
+2025-01-01 10:04:20 WARNING CPU temperature above threshold (85C)
+2025-01-01 10:04:55 ERROR Disk read failure on /dev/sda
+2025-01-01 10:05:00 CRITICAL Kernel panic detected
+2025-01-01 10:05:10 INFO System shutdown initiated
+2025-01-01 10:05:22 DEBUG Cleanup job started
+2025-01-01 10:05:40 WARNING Slow API response time detected (1200 ms)
+2025-01-01 10:06:05 ERROR Failed to write log entry to backup storage
+2025-01-01 10:06:15 DEBUG Cache cleanup completed
+2025-01-01 10:06:40 INFO Server restarted successfully
+2025-01-01 10:07:10 WARNING Session token expired for user 'guest'
+2025-01-01 10:07:25 ERROR Payment service unreachable (HTTP 503)
+2025-01-01 10:07:50 INFO Scheduler triggered daily maintenance job
+2025-01-01 10:08:15 WARNING Low disk space on /var/log (1.2 GB left)
+2025-01-01 10:08:45 ERROR API throttling limit exceeded
+2025-01-01 10:09:10 INFO Health check OK
+2025-01-01 10:09:40 DEBUG Loading configuration file
+2025-01-01 10:10:00 WARNING Multiple failed login attempts detected
+2025-01-01 10:10:35 ERROR Out-of-memory exception in worker-1

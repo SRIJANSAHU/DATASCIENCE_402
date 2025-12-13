@@ -1,0 +1,7 @@
+hello: 2
+world: 2
+this: 2
+is: 2
+a: 2
+test: 2
+only: 1
