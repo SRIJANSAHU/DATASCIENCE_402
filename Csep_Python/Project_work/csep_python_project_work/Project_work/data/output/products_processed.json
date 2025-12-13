@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "item": "Laptop",
+        "price": "50000",
+        "brand": "Dell",
+        "record_length": 4
+    },
+    {
+        "id": 2,
+        "item": "Mouse",
+        "price": "800",
+        "brand": "HP",
+        "record_length": 4
+    }
+]

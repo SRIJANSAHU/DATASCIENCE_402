@@ -1,0 +1,49 @@
+{
+  "c:\\Users\\User\\Desktop\\csep_python_fundamentals\\csep_python_project_work\\Project_work\\data\\input\\file1.txt": [
+    {
+      "line_no": 1,
+      "line_text": "Gradually, it was revealed that the processes of our planet and ",
+      "matched_keywords": [
+        "process"
+      ]
+    },
+    {
+      "line_no": 2,
+      "line_text": "the interactions of its inhabitants are orchestrated by a higher level of intelligence leading us, ",
+      "matched_keywords": [
+        "intelligence"
+      ]
+    },
+    {
+      "line_no": 3,
+      "line_text": "in an evolutionary process, toward our destiny! ",
+      "matched_keywords": [
+        "process"
+      ]
+    },
+    {
+      "line_no": 4,
+      "line_text": "I've come to believe that most people are completely unaware of this process",
+      "matched_keywords": [
+        "process"
+      ]
+    }
+  ],
+  "c:\\Users\\User\\Desktop\\csep_python_fundamentals\\csep_python_project_work\\Project_work\\data\\input\\file2.txt": [
+    {
+      "line_no": 10,
+      "line_text": "  What level of intelligence could operate in this way, ",
+      "matched_keywords": [
+        "intelligence"
+      ]
+    },
+    {
+      "line_no": 3,
+      "line_text": "  For one week, each thought of every moment became related to those things occurring in physical reality, ",
+      "matched_keywords": [
+        "thought",
+        "moment"
+      ]
+    }
+  ]
+}

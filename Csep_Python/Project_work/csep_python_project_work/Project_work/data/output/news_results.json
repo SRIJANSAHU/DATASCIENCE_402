@@ -1,0 +1,44 @@
+{
+    "politics": [
+        {
+            "title": "Election updates",
+            "content": "Major events unfolding",
+            "category": "politics",
+            "sentiment": 0
+        },
+        {
+            "title": "New policy announced",
+            "content": "Mixed reactions across states",
+            "category": "politics",
+            "sentiment": 0
+        }
+    ],
+    "sports": [
+        {
+            "title": "Team X wins championship",
+            "content": "A historic win today!",
+            "category": "sports",
+            "sentiment": 2
+        },
+        {
+            "title": "Player retires",
+            "content": "An emotional farewell",
+            "category": "sports",
+            "sentiment": 0
+        }
+    ],
+    "tech": [
+        {
+            "title": "AI revolution in 2025",
+            "content": "AI will change everything",
+            "category": "tech",
+            "sentiment": 1
+        },
+        {
+            "title": "Python 4.0 Released",
+            "content": "Faster and cleaner syntax",
+            "category": "tech",
+            "sentiment": 1
+        }
+    ]
+}
