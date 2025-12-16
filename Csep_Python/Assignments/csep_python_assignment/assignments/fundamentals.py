@@ -247,7 +247,7 @@ def copy_binary_file():
                 percent = (copied / total_size) * 100
                 print(f"Copied {copied} bytes ({percent:.2f}%)")
 
-        print("\n✔ File copied successfully!")
+        print("\n File copied successfully!")
         print(f"Output saved at: {output_file}")
 
     except FileNotFoundError:
@@ -485,3 +485,4 @@ process_weather()
 
 print("# ------------- Log Parser -------------- #")
 parse_logs()
+
